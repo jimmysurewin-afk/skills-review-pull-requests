@@ -1,4 +1,4 @@
-# Review pull requests.
+# Review pull requests
 
 _Collaborate with others to refine your work and get suggestions before merging._
 
